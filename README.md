@@ -1,2 +1,2 @@
 # Star
-Printing Diamond pattern of Satrs
+Printing Diamond pattern of Stars(*)
